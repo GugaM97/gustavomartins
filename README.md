@@ -1,11 +1,12 @@
 # 👋 Olá, eu sou o Gustavo!
 
-Sou **QA Analyst e Automatizador de Testes** apaixonado por garantir qualidade de software.  
+Sou **QA Analyst e Automatizador de Testes** com mais de **5 anos de experiência** garantindo qualidade de software.  
 Atualmente trabalho com:
 - ✅ Testes Manuais e Roteiros de QA
 - ✅ Automação de Testes de API com **Cypress, Playwright e Jest**
 - ✅ Testes de Carga com **k6 e Jmetter**
 - ✅ Boas práticas de QA em pipelines DevOps
+
 
 ## 💡 Minhas principais características e soft skills
 - Anotações e registros completos para detalhar bugs  
