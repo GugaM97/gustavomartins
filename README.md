@@ -81,7 +81,7 @@ Quando não estou garantindo a qualidade do software, gosto de:
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-1a3457225/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gugamartins2509)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugamartins13@gmail.com)
+📧 [gugamartins13@gmail.com](mailto:gugamartins13@gmail.com)
 
 ---
 💡 *“Qualidade não é um ato, é um hábito.”*
