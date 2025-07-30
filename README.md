@@ -49,6 +49,21 @@ Essa diversidade me ajuda a ter uma visão ampla e foco na solução dos problem
 
 ---
 
+## 🎓 Formação e Cursos
+
+- Ensino médio completo  
+- Faculdade incompleta em Sistemas de Informação  
+- Cursos online de automação de testes  
+- Curso de reparos de placas eletrônicas  
+- Participei de Aulas internas na empresa sobre programação básica em C#
+- Ja ministrei Curso na empresa sobre automação de testes com Cypress
+- Tenho um curso na Udemy que posso chamar de Meu! Automação de testes - Cypress
+- Canal no Youtube com alguns conteúdos de QA e automação de testes!
+
+Sempre buscando aprender e evoluir para entregar qualidade em todas as etapas do desenvolvimento.
+
+---
+
 ## 🎯 Momentos de lazer
 
 Quando não estou garantindo a qualidade do software, gosto de:  
