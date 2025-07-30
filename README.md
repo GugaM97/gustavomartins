@@ -38,6 +38,17 @@ Atualmente trabalho com:
 </p>
 ---
 
+## 💼 Minha trajetória profissional
+
+Antes de me especializar em QA, atuei em áreas como:  
+- Vendas  
+- Técnico em Informática  
+- Suporte Técnico  
+
+Essa diversidade me ajuda a ter uma visão ampla e foco na solução dos problemas do usuário final.
+
+---
+
 ## 🎯 Momentos de lazer
 
 Quando não estou garantindo a qualidade do software, gosto de:  
