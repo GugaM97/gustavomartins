@@ -38,6 +38,18 @@ Atualmente trabalho com:
 </p>
 ---
 
+## 🎯 Momentos de lazer
+
+Quando não estou garantindo a qualidade do software, gosto de:  
+- Sair com a família  
+- Tocar guitarra (adoro música e improvisar)  
+- Jogar games para relaxar  
+- Praticar esportes como futebol e vôlei  
+
+---
+
+💡 *Equilíbrio entre trabalho e vida pessoal é essencial para dar o melhor em tudo!*
+
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-1a3457225/)
