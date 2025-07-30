@@ -38,12 +38,6 @@ Atualmente trabalho com:
 </p>
 ---
 
-## 🚀 O que você vai encontrar aqui
-- **Portfólio de QA:** Casos de teste e checklists manuais
-- **Projetos de Automação:** Cypress, Playwright e Jest + Supertest
-- **Testes de Performance:** Scripts de carga com k6
-
----
 
 ## 🌎 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-1a3457225/)
