@@ -7,6 +7,32 @@ Atualmente trabalho com:
 - ✅ Testes de Carga com **k6 e Jmetter**
 - ✅ Boas práticas de QA em pipelines DevOps
 
+## 💡 Minhas principais características e soft skills
+- Anotações e registros completos para detalhar bugs  
+- Proativo e comunicativo  
+- Agilidade nas atividades  
+- Gosto de ensinar  
+- Sem conflitos em ambiente de trabalho  
+- Foco na qualidade do software e em entregar um bom produto ao usuário final  
+
+---
+
+## ⚙️ Experiência e conhecimentos técnicos
+- Usabilidade em sistemas ERP WEB  
+- Usabilidade em sistemas Desktop (Java e Delphi)  
+- Testes funcionais, regressão, caixa preta, performance, automação e mais  
+- Criatividade na hora do teste (nunca testar só o básico, sempre garantir o processo no ERP) 
+
+## 🧰 Tecnologias e Ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 ---
 
 ## 🚀 O que você vai encontrar aqui
