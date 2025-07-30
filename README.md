@@ -17,8 +17,8 @@ Atualmente trabalho com:
 ---
 
 ## 🌎 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/gustavo-martins-1a3457225/))
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@SeuCanal](https://www.youtube.com/@gugamartins2509))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-martins-1a3457225/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@gugamartins2509)
 
 ---
 💡 *“Qualidade não é um ato, é um hábito.”*
